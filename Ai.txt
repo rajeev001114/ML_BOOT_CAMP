@@ -1,0 +1,55 @@
+9:23 book_appointment('appointment_date="2025-09-22"', 'appointment_time="11:00 AM"', 'patient_first_name="Maria"', 'patient_last_name="Garcia"', 'reason_for_visit="annual_checkup"' )
+
+` and `
+
+conda create --prefix ./env pandas numpy matplotlib scikit-learn
+
+
+
+reparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+#
+# To activate this environment, use
+#
+#     $ conda activate C:\Users\rk312\AI_ML\firstProject\env
+
+	jupyter notebook
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+
+(base) C:\Users\rk312\AI_ML\firstProject>
+
+
+---------------------------------------------------------
+import pandas as pd
+import numpy as nm
+import matplotlib.pyplot as plt
+import sklearn
+
+
+---------------------------------------------------
+
+%matplotlib inline
+
+
+----------------------------------------
+1. LangChain — Develop LLM Powered Applications with LangChain
+https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flangchain%2F%3FcouponCode%3DMTST7102224A2
+
+2. ChatGPT and LangChain: The Complete Developer’s Masterclass
+https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fchatgpt-and-langchain-the-complete-developers-masterclass%2F
+
+3. LangChain Mastery: Develop LLM Apps with LangChain & Pinecone
+https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmaster-langchain-pinecone-openai-build-llm-applications%2F
+
+4. LangChain with Python Bootcamp
+https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flangchain-with-python-bootcamp
+
+5. LangGraph Mastery: Develop LLM Agents with LangGraph
+https://trk.udemy.com/c/3294490/3262185/39854?u=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Flanggraph-mastery-develop-llm-agents-with-langgraph%2F%3FcouponCode%3DMTST7102224A2
+
+
